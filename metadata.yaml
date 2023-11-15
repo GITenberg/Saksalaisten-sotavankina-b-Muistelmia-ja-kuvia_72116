@@ -1,0 +1,24 @@
+_repo: Saksalaisten-sotavankina-b-Muistelmia-ja-kuvia_72116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Takalampi, Kaarlo
+    gutenberg_agent_id: '56544'
+    url: http://www.gutenberg.org/2009/agents/56544
+description: ''
+gutenberg_issued: '2023-11-13'
+identifiers:
+  gutenberg: '72116'
+language: fi
+pgterms:marc905: 20231106071638takalampi
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Saksalaisten sotavankina : $b Muistelmia ja kuvia'
+url: http://www.gutenberg.org/ebooks/72116
