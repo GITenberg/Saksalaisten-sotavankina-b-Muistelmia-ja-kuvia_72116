@@ -1,11 +1,16 @@
 _repo: Saksalaisten-sotavankina-b-Muistelmia-ja-kuvia_72116
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Takalampi, Kaarlo
     gutenberg_agent_id: '56544'
     url: http://www.gutenberg.org/2009/agents/56544
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72116#Saksalaisten-sotavankina-b-Muistelmia-ja-kuvia
 gutenberg_issued: '2023-11-13'
 identifiers:
   gutenberg: '72116'
